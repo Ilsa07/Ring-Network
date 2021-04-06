@@ -10,6 +10,8 @@ This project contains two different ring network models, one which takes the con
 
 ### Neuron Model
 
+![neuron_model](https://latex.codecogs.com/gif.latex?%5Ctau%20%5Cfrac%7Bdm_i%7D%7Bdt%7D%3D-m_i&plus;g%28h_i%29)
+
 ### Connections Model
 The connections between neurons depend on their preferred orientations in the following way, where J0 and J2 are connection weights:
 
