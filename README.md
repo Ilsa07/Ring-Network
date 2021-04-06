@@ -8,6 +8,8 @@ This project contains two different ring network models, one which takes the con
 
 ### Input Filtering
 
+![input_filtering](https://latex.codecogs.com/gif.latex?g%28h%29%3D%20%5Cbegin%7Bcases%7D%200%20%26%20%5Ctext%7Bif%20%7D%20h%20%5Cleq%20T%5C%5C%20%5Cbeta%28h-T%29%20%26%20%5Ctext%7Bif%20%7D%20T%20%3C%20h%20%5Cleq%20T%20&plus;%201/%20%5Cbeta%5C%5C%201%20%26%20%5Ctext%7Bif%20%7D%20h%20%3E%20T%20&plus;%201/%5Cbeta%20%5Cend%7Bcases%7D)
+
 ### Neuron Model
 
 ![neuron_model](https://latex.codecogs.com/gif.latex?%5Ctau%20%5Cfrac%7Bdm_i%7D%7Bdt%7D%3D-m_i&plus;g%28h_i%29)
