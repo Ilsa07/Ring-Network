@@ -4,6 +4,8 @@ This project contains two different ring network models, one which takes the con
 
 ### Neuron Inputs
 
+![neuron_input](https://latex.codecogs.com/gif.latex?h_i%5E%7Bext%7D%28%5Ctheta_0%29%3Dc%5B%281-%5Cepsilon%29%20&plus;%20%5Cepsilon%20cos%282%28%5Ctheta_i%20-%20%5Ctheta_0%29%29%5D)
+
 ### Input Filtering
 
 ### Neuron Model
