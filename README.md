@@ -1,6 +1,6 @@
 # Ring Network
 
-This project contains two different ring network models, one which takes the connections between neurons into account and a simplified version which does not. Ring networks are used to model a group of neurons in the visual cortex, which have disctinct preferred edge orientations to which they respond with a maximal firing rate. 
+This project contains two different ring network models, one which takes the connections between neurons into account and a simplified version which does not. Ring networks are used to model a group of neurons in the visual cortex, which have disctinct preferred edge orientations to which they respond to with a maximal firing rate. 
 
 ### Neuron Inputs
 The inputs of the neurons depend on the orientation of the visual stimuli. The magnitude of the inputs is proportional, for a given neuron, to the difference between ints preferred orientation and the orientation of the stimuli, and is described by the equation below.
